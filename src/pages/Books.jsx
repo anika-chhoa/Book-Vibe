@@ -6,6 +6,7 @@ import ListedWishLists from "../components/ListedWishLists/ListedWishLists";
 
 const handleReset = () => {
   localStorage.removeItem("readLists");
+  localStorage.removeItem("wishLists");
   window.location.reload();
 };
 
