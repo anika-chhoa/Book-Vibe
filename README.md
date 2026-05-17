@@ -5,6 +5,7 @@ A dynamic and user-friendly React web application that helps users explore books
 🚀 Live Demo
 
 🌐 Live Site: https://book-vibe-44hlpdy7h-anika-chhoas-projects.vercel.app/
+
 💻 GitHub Repository: https://github.com/anika-chhoa/Book-Vibe.git
 
 📖 Project Overview
