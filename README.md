@@ -49,51 +49,79 @@ Local Storage data persistence
 Array methods (find(), sort(), filter(), map())
 
 📂 Project Structure
+
 BookVibe/
+
 │
+
 ├── public/
+
 ├── src/
+
 │   ├── components/
+
 │   ├── pages/
+
 │   ├── routes/
+
 │   ├── utils/
+
 │   ├── assets/
+
 │   ├── App.jsx
+
 │   └── main.jsx
+
 │
+
 ├── package.json
+
 └── README.md
 
+
+
 ⚙️ Installation & Setup
+
 
 Follow these steps to run the project locally:
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/anika-chhoa/Book-Vibe.git
+
 2️⃣ Navigate to the Project Folder
+
 cd BookVibe
+
 3️⃣ Install Dependencies
+
 npm install
+
 4️⃣ Start the Development Server
+
 npm run dev
+
 🎯 Learning Outcomes
 
 Working on this project helped me improve my skills in:
 
-React component architecture
-Routing with React Router
-State handling in React
-Local Storage implementation
-Dynamic UI rendering
-User experience design
-JavaScript array manipulation
+-React component architecture
+-Routing with React Router
+-State handling in React
+-Local Storage implementation
+-Dynamic UI rendering
+-User experience design
+-JavaScript array manipulation
+
 🔥 Future Improvements
-Add authentication system
-Connect with a backend/database
-Search and filtering functionality
-Dark mode support
-User profile and reading statistics
-API integration for live book data
+-Add authentication system
+-Connect with a backend/database
+-Search and filtering functionality
+-Dark mode support
+-User profile and reading statistics
+-API integration for live book data
+
+
 🙌 Feedback
 
 I would love to hear your feedback and suggestions to improve the project further!
