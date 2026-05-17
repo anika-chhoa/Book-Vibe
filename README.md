@@ -69,7 +69,7 @@ BookVibe/
 Follow these steps to run the project locally:
 
 1️⃣ Clone the Repository
-git clone <your-repository-link>
+git clone https://github.com/anika-chhoa/Book-Vibe.git
 2️⃣ Navigate to the Project Folder
 cd BookVibe
 3️⃣ Install Dependencies
