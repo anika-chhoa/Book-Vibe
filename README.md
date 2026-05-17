@@ -16,37 +16,58 @@ The application focuses on creating a smooth and practical reading management ex
 ✨ Features
 
 ✅ Interactive and responsive homepage UI
+
 ✅ Dynamic routing with detailed book pages
+
 ✅ Mark books as Read
+
 ✅ Add books to Wishlist
+
 ✅ Separate tabs for:
+
 
 Read Books
 Wishlist
 
 ✅ Sorting functionality:
 
+
 Sort by Ratings
 Sort by Number of Pages
 
+
 ✅ Persistent data using Local Storage
+
 ✅ Reset functionality to clear stored data
+
 ✅ Clean and user-friendly interface
 
+
 🛠️ Technologies Used
+
 Frontend
-React.js
-React Router DOM
-JavaScript (ES6+)
-HTML5
-CSS3
-Tailwind CSS
+-React.js
+
+-React Router DOM
+
+-JavaScript (ES6+)
+
+-HTML5
+
+-Tailwind CSS
+
+
 Concepts Practiced
-Component-based architecture
-Dynamic routing
-State management
-Local Storage data persistence
-Array methods (find(), sort(), filter(), map())
+-Component-based architecture
+
+-Dynamic routing
+
+-State management
+
+-Local Storage data persistence
+
+-Array methods (find(), sort(), filter(), map())
+
 
 📂 Project Structure
 
@@ -106,20 +127,31 @@ npm run dev
 Working on this project helped me improve my skills in:
 
 -React component architecture
+
 -Routing with React Router
+
 -State handling in React
+
 -Local Storage implementation
+
 -Dynamic UI rendering
+
 -User experience design
+
 -JavaScript array manipulation
+
 
 🔥 Future Improvements
 -Add authentication system
+
 -Connect with a backend/database
+
 -Search and filtering functionality
--Dark mode support
+
 -User profile and reading statistics
+
 -API integration for live book data
+
 
 
 🙌 Feedback
